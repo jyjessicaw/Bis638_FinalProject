@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/13OOm8WEAvJGgtcst43Rv0gE92GvOoeCGl2bWUtODVv0/edit?usp=sharing
+
 BIS 638: Brief Project Proposal
 Team Name: PARTITION BY
 Group Names: Chenxi Li, Rui Li, Jessica Wang, Inna Cohen
@@ -12,6 +14,8 @@ Chenxi and Jessica: Clean up missing values, re-code ages of older adults from 3
 All: Work on data visualization and analysis using R and Python
 All: Do a quick literature search to understand the risk factors for delirium to see if any patients with the risk factor have an increased odds/higher prevalence of delirium compared do patients who are not.  older age6, cognitive/functional impairment7, CAM/APACHE-II score8, depression7, excessive sedative use9, infection (with/without sepsis)7, and urea concentration8.
  
+ 
+
  
 References
 1.	Cavallazzi, R., Saad, M. & Marik, P. E. Delirium in the ICU: an overview. Ann Intensive Care 2, 49 (2012).
