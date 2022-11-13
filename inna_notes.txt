@@ -1,0 +1,14 @@
+Code: 
+
+1. https://github.com/mostafaalishahi/Delirium_prediction_models/tree/master/Data%20extraction
+From paper: https://academic.oup.com/jamiaopen/article/5/2/ooac048/6605167
+
+
+Delirium risk with opiods, benzodiazepines, dihydropyradines, antihistamines
+
+3. https://www.nejm.org/doi/full/10.1056/nejmra1208705#:~:text=Sedatives%20that%20are%20commonly%20used,anesthetic%20agent%20propofol%2C%20and%20dexmedetomidine.
+
+Sedatives:
+Midazolam (X), Lorazepam (X), Diazepam (X), Propfol (X), Dexmedetomidine (X), Fentanyl (X), Morphine (X), Hydromorphone (X)
+Remifentanil (missing)
+
