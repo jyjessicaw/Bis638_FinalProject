@@ -10,10 +10,12 @@ https://mor.nlm.nih.gov/RxClass/search?query=OPIOIDS%7CATC1-4&searchBy=class&sou
 https://mor.nlm.nih.gov/RxClass/search?query=Benzodiazepines%7CCHEM&searchBy=class&sourceIds=&drugSources=atc1-4%7Catc%2Cepc%7Cfdaspl%2Cmeshpa%7Cmesh%2Cdisease%7Cmedrt%2Cchem%7Cfdaspl%2Cmoa%7Cfdaspl%2Cpe%7Cfdaspl%2Cpk%7Cmedrt%2Ctc%7Cfmtsme%2Cva%7Cva%2Cdispos%7Csnomedct%2Cstruct%7Csnomedct%2Ctherap%7Csnomedct%2Cschedule%7Crxnorm
 https://mor.nlm.nih.gov/RxClass/search?query=dihydropyridines&searchBy=class&sourceIds=&drugSources=atc1-4%7Catc%2Cepc%7Cfdaspl%2Cmeshpa%7Cmesh%2Cdisease%7Cmedrt%2Cchem%7Cfdaspl%2Cmoa%7Cfdaspl%2Cpe%7Cfdaspl%2Cpk%7Cmedrt%2Ctc%7Cfmtsme%2Cva%7Cva%2Cdispos%7Csnomedct%2Cstruct%7Csnomedct%2Ctherap%7Csnomedct%2Cschedule%7Crxnorm
 
+https://mor.nlm.nih.gov/RxNav/
+https://mor.nlm.nih.gov/RxClass/
+
 
 https://lhncbc.nlm.nih.gov/RxNav/APIs/api-RxClass.getClassMembers.html
-https://lhncbc.nlm.nih.gov/RxNav/APIs/api-RxNorm.findRelatedNDCs.html
-
+https://lhncbc.nlm.nih.gov/RxNav/APIs/api-RxNorm.getNDCs.html
 
 
 3. https://www.nejm.org/doi/full/10.1056/nejmra1208705#:~:text=Sedatives%20that%20are%20commonly%20used,anesthetic%20agent%20propofol%2C%20and%20dexmedetomidine.
